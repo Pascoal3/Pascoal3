@@ -26,7 +26,7 @@ Arquitetura: MVC • Experiência: Frontend & Backend • Foco: produto, perform
 
 ---
 
-## Projeto em destaque: Skilla, Marketplace de Freelancers (Angola)
+## Projeto em destaque: Skilla - Marketplace de Freelancers (Angola)
 
 **Skilla** é uma plataforma web freelance pensada para profissionalizar o mercado de serviços digitais em Angola, reduzindo fricção na contratação e aumentando confiança e segurança nos pagamentos.
 
