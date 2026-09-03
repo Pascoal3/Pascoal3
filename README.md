@@ -1,6 +1,6 @@
 # Pascoal Da Silva (Atlas DEV)
 
-Software Engineer (Frontend & backend)
+Desenvolvedor web (Frontend & backend)
 
 Dev Web • UI/UX • Automação • IA • Desenvolvimento agentico
 
